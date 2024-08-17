@@ -13,6 +13,7 @@ maintainers = []
 
 [upstream]
 license = "AGPL-3.0"
+demo ="https://simonrepp.com/feber/demo/"
 website = "https://simonrepp.com/feber/"
 code = "https://codeberg.org/simonrepp/feber"
 
