@@ -16,6 +16,7 @@ license = "AGPL-3.0"
 demo ="https://simonrepp.com/feber/demo/"
 website = "https://simonrepp.com/feber/"
 code = "https://codeberg.org/simonrepp/feber"
+fund = "https://ko-fi.com/simonrepp"
 
 [integration]
 yunohost = ">= 11.2.27"
