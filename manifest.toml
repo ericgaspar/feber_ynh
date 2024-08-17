@@ -14,9 +14,6 @@ maintainers = []
 [upstream]
 license = "AGPL-3.0"
 website = "https://simonrepp.com/feber/"
-demo = "https://demo.example.com"
-admindoc = "https://yunohost.org/packaging_apps"
-userdoc = "https://yunohost.org/apps"
 code = "https://codeberg.org/simonrepp/feber"
 
 [integration]
@@ -59,7 +56,5 @@ ram.runtime = "50M"
     [resources.permissions]
     main.url = "/"
 
-    [resources.ports]
-
     [resources.apt]
-    packages = "php8.3-FPM"
+    packages = "php8.3-fpm"
